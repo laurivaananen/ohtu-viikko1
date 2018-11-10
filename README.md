@@ -6,3 +6,5 @@
 [![codecov](https://codecov.io/gh/laurivaananen/ohtu-viikko1/branch/master/graph/badge.svg)](https://codecov.io/gh/laurivaananen/ohtu-viikko1)
 
 
+
+

@@ -4,3 +4,4 @@ build/
 *.swp
 gradle.properties
 
+/Verkkokauppa1/JavaApplication2/nbproject/private/
